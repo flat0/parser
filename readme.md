@@ -1,2 +1,1 @@
-An Airbib parser.
-
+An Airbnb parser (Node.js + MongoDB)
